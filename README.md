@@ -1,7 +1,7 @@
 # React Chat Example Powered by PubNub
 This project demonstrates the power that PubNub provides behind the scene in many use cases. 
 
-<a href="https://dashboard.pubnub.com/signup?devrel_gh=PubNubReactChat">
+<a href="https://admin.pubnub.com/register">
     <img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
 </a>
 
